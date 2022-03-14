@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Document Version="2">
+    <Protection InputFileName="365自动投注.exe" Options="726984" VMCodeSectionName="OPEXgu" LicenseDataFileName="C:\Users\admin\Desktop\project\E企V37离线\VMP强化版V6\VMP授权密匙.vmp">
+        <Messages />
+        <Folders />
+        <Procedures>
+            <Procedure Address="4207823" Options="0" CompilationType="1" />
+            <Procedure Address="4207871" Options="0" />
+            <Procedure Address="4209159" Options="0" CompilationType="1" />
+            <Procedure Address="4209228" Options="0" />
+            <Procedure Address="4229376" Options="0" CompilationType="1" />
+            <Procedure Address="4229528" Options="0" CompilationType="1" />
+            <Procedure Address="4234696" Options="0" CompilationType="1" />
+            <Procedure Address="4234759" Options="0" CompilationType="1" />
+            <Procedure Address="4235088" Options="0" CompilationType="1" />
+            <Procedure Address="4235378" Options="0" CompilationType="1" />
+            <Procedure Address="4241056" Options="0" CompilationType="1" />
+            <Procedure Address="4241346" Options="0" CompilationType="1" />
+            <Procedure Address="4249484" Options="0" CompilationType="1" />
+            <Procedure Address="4249511" Options="0" />
+            <Procedure Address="4249687" Options="0" CompilationType="1" />
+            <Procedure Address="4250250" Options="0" />
+            <Procedure Address="4269921" Options="0" CompilationType="1" />
+            <Procedure Address="4269948" Options="0" CompilationType="1" />
+            <Procedure Address="4270191" Options="0" CompilationType="1" />
+            <Procedure Address="4270337" Options="0" />
+            <Procedure Address="4274662" Options="0" CompilationType="1" />
+            <Procedure Address="4274689" Options="0" />
+            <Procedure Address="4277541" Options="0" CompilationType="1" />
+            <Procedure Address="4277562" Options="0" />
+            <Procedure Address="4278569" Options="0" CompilationType="1" />
+            <Procedure Address="4278726" Options="0" CompilationType="1" />
+            <Procedure Address="4293531" Options="0" CompilationType="1" />
+            <Procedure Address="4293565" Options="0" CompilationType="1" />
+            <Procedure Address="4296398" Options="0" CompilationType="1" />
+            <Procedure Address="4296460" Options="0" CompilationType="1" />
+            <Procedure Address="4297028" Options="0" CompilationType="1" />
+            <Procedure Address="4297083" Options="0" CompilationType="1" />
+            <Procedure Address="4301953" Options="0" CompilationType="1" />
+            <Procedure Address="4301987" Options="0" />
+            <Procedure Address="4302306" Options="0" CompilationType="1" />
+            <Procedure Address="4302494" Options="0" />
+            <Procedure Address="4304769" Options="0" CompilationType="1" />
+            <Procedure Address="4304824" Options="0" CompilationType="1" />
+            <Procedure Address="4305315" Options="0" CompilationType="1" />
+            <Procedure Address="4305349" Options="0" CompilationType="1" />
+            <Procedure Address="4305541" Options="0" CompilationType="1" />
+            <Procedure Address="4305582" Options="0" CompilationType="1" />
+            <Procedure Address="4306686" Options="0" CompilationType="1" />
+            <Procedure Address="4306720" Options="0" CompilationType="1" />
+            <Procedure Address="4306921" Options="0" CompilationType="1" />
+            <Procedure Address="4306962" Options="0" CompilationType="1" />
+            <Procedure Address="4307301" Options="0" CompilationType="1" />
+            <Procedure Address="4307349" Options="0" CompilationType="1" />
+            <Procedure Address="4307866" Options="0" CompilationType="1" />
+            <Procedure Address="4307900" Options="0" CompilationType="1" />
+            <Procedure Address="4308079" Options="0" CompilationType="1" />
+            <Procedure Address="4308113" Options="0" CompilationType="1" />
+            <Procedure Address="4308295" Options="0" CompilationType="1" />
+            <Procedure Address="4308378" Options="0" CompilationType="1" />
+            <Procedure Address="4309849" Options="0" CompilationType="1" />
+            <Procedure Address="4309883" Options="0" CompilationType="1" />
+            <Procedure Address="4310094" Options="0" CompilationType="1" />
+            <Procedure Address="4310115" Options="0" />
+            <Procedure Address="4310772" Options="0" CompilationType="1" />
+            <Procedure Address="4310834" Options="0" CompilationType="1" />
+            <Procedure Address="4311416" Options="0" CompilationType="1" />
+            <Procedure Address="4311523" Options="0" />
+            <Procedure Address="4314821" Options="0" CompilationType="1" />
+            <Procedure Address="4314862" Options="0" />
+            <Procedure Address="4315229" Options="0" CompilationType="1" />
+            <Procedure Address="4315250" Options="0" />
+            <Procedure Address="4316622" Options="0" CompilationType="1" />
+            <Procedure Address="4316656" Options="0" />
+            <Procedure Address="4316867" Options="0" CompilationType="1" />
+            <Procedure Address="4316888" Options="0" CompilationType="1" />
+            <Procedure Address="4317275" Options="0" CompilationType="1" />
+            <Procedure Address="4317309" Options="0" />
+            <Procedure Address="4318331" Options="0" CompilationType="1" />
+            <Procedure Address="4318455" Options="0" />
+            <Procedure Address="4332558" Options="0" CompilationType="1" />
+            <Procedure Address="4332620" Options="0" />
+            <Procedure Address="4333675" Options="0" CompilationType="1" />
+            <Procedure Address="4333709" Options="0" CompilationType="1" />
+            <Procedure Address="4334210" Options="0" CompilationType="1" />
+            <Procedure Address="4334231" Options="0" CompilationType="1" />
+            <Procedure Address="4415920" Options="0" CompilationType="1" />
+            <Procedure Address="4415947" Options="0" CompilationType="1" />
+            <Procedure Address="4419710" Options="0" CompilationType="1" />
+            <Procedure Address="4419805" Options="0" CompilationType="1" />
+            <Procedure Address="4424211" Options="0" CompilationType="1" />
+            <Procedure Address="4424306" Options="0" CompilationType="1" />
+            <Procedure Address="4426822" Options="0" CompilationType="1" />
+            <Procedure Address="4426856" Options="0" />
+            <Procedure Address="4428009" Options="0" CompilationType="1" />
+            <Procedure Address="4428092" Options="0" />
+            <Procedure Address="4430165" Options="0" CompilationType="1" />
+            <Procedure Address="4430206" Options="0" CompilationType="1" />
+            <Procedure Address="4430558" Options="0" CompilationType="1" />
+            <Procedure Address="4430592" Options="0" CompilationType="1" />
+            <Procedure Address="4430932" Options="0" CompilationType="1" />
+            <Procedure Address="4431022" Options="0" />
+            <Procedure Address="4433265" Options="0" CompilationType="1" />
+            <Procedure Address="4433372" Options="0" />
+            <Procedure Address="4436239" Options="0" CompilationType="1" />
+            <Procedure Address="4436266" Options="0" />
+            <Procedure Address="4436663" Options="0" CompilationType="1" />
+            <Procedure Address="4436697" Options="0" CompilationType="1" />
+            <Procedure Address="4436971" Options="0" CompilationType="1" />
+            <Procedure Address="4437245" Options="0" />
+            <Procedure Address="4443951" Options="0" CompilationType="1" />
+            <Procedure Address="4443985" Options="0" />
+            <Procedure Address="4444435" Options="0" CompilationType="1" />
+            <Procedure Address="4444483" Options="0" />
+            <Procedure Address="4444818" Options="0" CompilationType="1" />
+            <Procedure Address="4444852" Options="0" CompilationType="1" />
+            <Procedure Address="4445064" Options="0" CompilationType="1" />
+            <Procedure Address="4445098" Options="0" />
+            <Procedure Address="4445418" Options="0" CompilationType="1" />
+            <Procedure Address="4445452" Options="0" />
+            <Procedure Address="4445770" Options="0" CompilationType="1" />
+            <Procedure Address="4445811" Options="0" />
+            <Procedure Address="4446485" Options="0" CompilationType="1" />
+            <Procedure Address="4446533" Options="0" />
+            <Procedure Address="4574967" Options="0" CompilationType="1" />
+            <Procedure Address="4575186" Options="0" />
+            <Procedure Address="4605938" Options="0" CompilationType="1" />
+            <Procedure Address="4606097" Options="0" />
+            <Procedure Address="4609640" Options="0" CompilationType="1" />
+            <Procedure Address="4609681" Options="0" />
+            <Procedure Address="4611981" Options="0" CompilationType="1" />
+            <Procedure Address="4612091" Options="0" />
+            <Procedure Address="4615147" Options="0" CompilationType="1" />
+            <Procedure Address="4615312" Options="0" />
+            <Procedure Address="4620324" Options="0" CompilationType="1" />
+            <Procedure Address="4620385" Options="0" />
+            <Procedure Address="4621928" Options="0" CompilationType="1" />
+            <Procedure Address="4621955" Options="0" />
+            <Procedure Address="4623155" Options="0" CompilationType="1" />
+            <Procedure Address="4623203" Options="0" />
+            <Procedure Address="4198455" Options="0" CompilationType="1" />
+            <Procedure Address="4198528" Options="0" CompilationType="2" />
+            <Procedure MapAddress="VMProtectMarker2" Options="0" CompilationType="2" />
+            <Procedure MapAddress="VMProtectMarker9" Options="0" CompilationType="2" />
+            <Procedure MapAddress="VMProtectMarker41" Options="0" CompilationType="2" />
+            <Procedure Address="4385563" Options="0" CompilationType="1" />
+            <Procedure Address="4385663" Options="0" CompilationType="2" />
+            <Procedure Address="4415375" Options="0" CompilationType="1" />
+            <Procedure Address="4415456" Options="0" CompilationType="2" />
+            <Procedure MapAddress="VMProtectMarker66" Options="8192" CompilationType="2" />
+            <Procedure Address="4572057" Options="0" CompilationType="1" />
+            <Procedure Address="4572611" Options="0" CompilationType="2" />
+            <Procedure MapAddress="VMProtectMarker69" Options="0" CompilationType="2" />
+            <Procedure MapAddress="VMProtectMarker70" Options="8192" CompilationType="1" />
+            <Procedure MapAddress="VMProtectMarker76" Options="0" CompilationType="2" />
+            <Procedure Address="4885152" Options="0" CompilationType="1" />
+            <Procedure Address="5031120" Options="0" CompilationType="1" />
+            <Procedure Address="5031184" Options="0" CompilationType="1" />
+            <Procedure Address="5031360" Options="0" CompilationType="1" />
+            <Procedure Address="4900432" Options="0" CompilationType="1" />
+            <Procedure Address="5595408" Options="0" CompilationType="1" />
+            <Procedure Address="5001344" Options="0" CompilationType="1" />
+            <Procedure Address="4914256" Options="0" CompilationType="1" />
+            <Procedure Address="4885104" Options="0" CompilationType="1" />
+            <Procedure Address="5001296" Options="0" CompilationType="1" />
+            <Procedure Address="4904944" Options="0" CompilationType="1" />
+            <Procedure Address="4904976" Options="0" CompilationType="1" />
+            <Procedure Address="4885008" Options="0" CompilationType="1" />
+            <Procedure Address="4884928" Options="0" CompilationType="1" />
+            <Procedure Address="4885040" Options="0" CompilationType="1" />
+            <Procedure Address="4885072" Options="0" CompilationType="1" />
+            <Procedure Address="4892848" Options="0" CompilationType="1" />
+            <Procedure Address="4887824" Options="0" CompilationType="1" />
+            <Procedure Address="4886928" Options="0" CompilationType="1" />
+            <Procedure Address="4887536" Options="0" CompilationType="1" />
+            <Procedure Address="4888320" Options="0" CompilationType="1" />
+            <Procedure Address="4890080" Options="0" CompilationType="1" />
+            <Procedure Address="4885456" Options="0" CompilationType="1" />
+            <Procedure Address="4890640" Options="0" CompilationType="1" />
+            <Procedure Address="4889680" Options="0" CompilationType="1" />
+            <Procedure Address="4885728" Options="0" CompilationType="1" />
+            <Procedure Address="4885584" Options="0" CompilationType="1" />
+            <Procedure Address="4885648" Options="0" CompilationType="1" />
+            <Procedure MapAddress="EntryPoint" Options="0" CompilationType="1" />
+        </Procedures>
+        <Objects />
+    </Protection>
+    <DLLBox>
+        <Folders />
+    </DLLBox>
+    <Script />
+</Document>
